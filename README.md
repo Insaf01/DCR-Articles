@@ -1,2 +1,2 @@
 # DCR-Articles
-### [an introduction to decred](an-introduction-to-decred.md)
+### [An introduction to Decred](an-introduction-to-decred.md)
