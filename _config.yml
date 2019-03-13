@@ -1,4 +1,4 @@
 title: Decred Arabic
-remote_theme: willianjusten/will-jekyll-template
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
