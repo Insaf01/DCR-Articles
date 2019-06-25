@@ -1,4 +1,4 @@
-Decred Arabic articles
+مقالات الديكريد بالعربية
 
 ### [نبذة عن عملة الديكريد](articles/an-introduction-to-decred.md)
 ### [الديكريد: من أين بدأ؟](articles/decred-where-did-it-all-begin.md)
