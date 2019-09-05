@@ -132,4 +132,6 @@ CoinShuffle ++ هي عملية غير مقيدة لإنشاء معاملات Coi
 
 ![](https://blog.decred.org/images/posts/dcr-cc-privacy-comparison-2.png)
 
+رابط النص الأصلي: https://blog.decred.org/2019/08/28/Iterating-Privacy/
+
 </div>
