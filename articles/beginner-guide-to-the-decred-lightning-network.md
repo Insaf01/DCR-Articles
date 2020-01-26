@@ -2,7 +2,7 @@
 
 # دليل المبتدئين لإستعمال الشبكة البرقية لديكريد (DCR)
 
-![](decred-arabic/Lightning network beginner guide.png)
+![](https://miro.medium.com/max/1280/1*wQWOA9X22Hv6qXZpO0aKlA.png)
 
 _دليل اختبار الشبكة البرقية لديكريد ([dcrlnd](https://github.com/decred/dcrlnd)) للمبتدئين._
 
