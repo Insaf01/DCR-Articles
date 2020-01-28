@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # دليل المبتدئين لإستعمال الشبكة البرقية لديكريد (DCR)
 
 ![](https://miro.medium.com/max/1280/1*wQWOA9X22Hv6qXZpO0aKlA.png)
@@ -210,5 +208,3 @@ _يتحدث مطور ديكريد عن الحالة الحالية للشبكة 
 رابط النص الأصلي: [Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa) بقلم Noah Piereau
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@، قام بالمراجعة abdulrahman4@.
-
-</div>
