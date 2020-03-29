@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # DTB001: موجز تقني عن ديكريد
 
 Christina Jepson *1
@@ -205,5 +203,3 @@ https://decred.org/research/wuille2015.pdf
 رابط النص الأصلي: https://decred.org/dcr_technical_brief.pdf
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
-
-</div>
