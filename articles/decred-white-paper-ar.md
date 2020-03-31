@@ -121,6 +121,7 @@ $$ (m = 277\text{, } a = 0\text{; } m = 283\text{, } a = 0\text{; } m = 283\text
 ## المراجع
 
 <div dir="ltr">
+  
 [1] Nakamoto N. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. Self-published.
 https://decred.org/research/nakamoto2008.pdf
 
