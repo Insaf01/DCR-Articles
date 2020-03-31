@@ -121,84 +121,83 @@ $$ (m = 277\text{, } a = 0\text{; } m = 283\text{, } a = 0\text{; } m = 283\text
 ## المراجع
 
 <div dir="ltr">
-  
 [1] Nakamoto N. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. Self-published.
-https://decred.org/research/nakamoto2008.pdf
+https://decred.org/research/nakamoto2008.pdf<br>
 
 [2] Buterin V. 2014. A Next-Generation Smart Contract and Decentralized Application Platform. Self-published.
-https://decred.org/research/buterin2014.pdf
+https://decred.org/research/buterin2014.pdf<br>
 
 [3] von Saberhagen N. 2013. CryptoNote v 2.0. Self-published.
-https://decred.org/research/saberhagen2013.pdf
+https://decred.org/research/saberhagen2013.pdf<br>
 
 [4] Back A., Corallo M., Dashjr L., Friedenbach M., Maxwell G., Miller A., Poelstra A., Timon A., Wuille P. 2014. Enabling Bitcoin Innovations with Pegged Sidechains. BlockStream.
-https://decred.org/research/back2014.pdf
+https://decred.org/research/back2014.pdf<br>
 
 [5] King S. and Nadal S. 2012. PPCoin: Peer-to-Peer CryptoCurrency with Proof-of-Stake. Self-published.
-https://decred.org/research/king2012.pdf
+https://decred.org/research/king2012.pdf<br>
 
 [7] Poelstra A. 2015. On Stake and Consensus. Selfpublished.
-https://decred.org/research/poelstra2015.pdf
+https://decred.org/research/poelstra2015.pdf<br>
 
 [8] Bentov I., Lee C., Mizrahi A., Rosenfeld M. 2014. Proof-of-Activity: Extending Bitcoin’s Proof of Work via Proof of Stake. Proceedings of the ACM SIGMETRICS 2014 Workshop on Economics of Networked Systems, NetEcon.
-https://decred.org/research/bentov2014.pdf
+https://decred.org/research/bentov2014.pdf<br>
 
 [9] Mackenzie A. 2013. MEMCOIN2: A Hybrid Proof-of-Work, Proof-of-Stake Crypto-currency. Self-published.
-https://decred.org/research/mackenzie2013.pdf
+https://decred.org/research/mackenzie2013.pdf<br>
 
 [10] Pornin T. 2013. StackExchange Cryptography: Should we trust the NIST-recommended ECC parameters?
-https://decred.org/research/pornin2013.pdf
+https://decred.org/research/pornin2013.pdf<br>
 
 [11] Solinas J. 2000. Efficient Arithmetic on Koblitz Curves. Designs, Codes and Cryptography. 19(2):195-249.
-https://decred.org/research/solinas2000.pdf
+https://decred.org/research/solinas2000.pdf<br>
 
 [12] Bernstein D. and Lange T. 2014. SafeCurves: choosing safe curves for elliptic-curve cryptography.
-http://safecurves.cr.yp.to
+http://safecurves.cr.yp.to<br>
 
 [13] Bernstein D., Duif N., Lange T., Schwabe P., Yang B. 2012. High-speed high-security signatures. Journal of Cryptographic Engineering. 2:77-89.
-https://decred.org/research/bernstein2012.pdf
+https://decred.org/research/bernstein2012.pdf<br>
 
 [14] Osuntokun O. 2015. OP SCHNORRCHECKSIG: Exploring Schnorr Signatures as an Alternative to ECDSA for Bitcoin. Self-published.
-https://decred.org/research/osuntokun2015.pdf
+https://decred.org/research/osuntokun2015.pdf<br>
 
 [15] Petersen T. 1992. Distributed Provers and Verifiable Secret Sharing Based on the Discrete Logarithm Problem. Aarhus University Ph.D. Thesis. 55-57.
-https://decred.org/research/petersen1992.pdf
+https://decred.org/research/petersen1992.pdf<br>
 
-[16] Stinson D. and Strobl R. 2001. Provably Secure Distributed Schnorr Signatures and a (t,n) Threshold Scheme for Implicit Certificates. Certicom Corporation.
+[16] Stinson D. and Strobl R. 2001. Provably Secure Distributed Schnorr Signatures and a (t,n) Threshold Scheme for Implicit Certificates. Certicom Corporation.<br>
 
 [17] Aumasson J., Henzen L., Meier W., Phan R. 2010. SHA-3 Proposal BLAKE. Self-published.
-https://decred.org/research/aumasson2010.pdf
+https://decred.org/research/aumasson2010.pdf<br>
 
-[18] Aumasson J., Henzen L., Meier W., Phan R. 2014. The Hash Function BLAKE. Springer-Verlag Berlin Heidelberg.
+[18] Aumasson J., Henzen L., Meier W., Phan R. 2014. The Hash Function BLAKE. Springer-Verlag Berlin Heidelberg.<br>
 
 [19] Bernstein D. and Lange T. eBACS: ECRYPT Benchmarking of Cryptographic Systems.
-http://bench.cr.yp.to
+http://bench.cr.yp.to<br>
 
 [20] Wuille P. 2015. Segregated Witness for Bitcoin. Scaling Bitcoin Hong Kong.
-https://prezi.com/lyghixkrguao/segregated-witness-anddeploying-it-for-bitcoin/
+https://prezi.com/lyghixkrguao/segregated-witness-anddeploying-it-for-bitcoin/<br>
 
 [21] Todd P. The difficulty of writing consensus critical code: the SIGHASH SINGLE bug. Bitcoin-development mailing list.
-https://decred.org/research/todd2014.pdf
+https://decred.org/research/todd2014.pdf<br>
 
-[22] Franco P. Understanding Bitoin, 6.3: Multisignature (M-of-N) Transactions. John Wiley Sons Inc. p. 84.
+[22] Franco P. Understanding Bitoin, 6.3: Multisignature (M-of-N) Transactions. John Wiley Sons Inc. p. 84.<br>
 
 [23] Maxwell G. 2015. Bringing New Elements to Bitcoin with Sidechains. SF Bitcoin Devs Meetup.
-https://decred.org/research/maxwell2015.pdf
+https://decred.org/research/maxwell2015.pdf<br>
 
 [24] ByteCoin. 2010. Need OP_BLOCKNUMBER to allow “time” limited transactions.
-https://decred.org/research/bytecoin2010.pdf
+https://decred.org/research/bytecoin2010.pdf<br>
 
 [25] ArtForz. 2011. Re: Possible way to make a very profitable 50 plus ish attack for pools? Bitcointalk Bitcoin Forums.
-https://decred.org/research/artforz2011.pdf
+https://decred.org/research/artforz2011.pdf<br>
 
 [26] Eyal I. 2015. The Miner‘s Dilemma. In IEEE Symposium on Security and Privacy, 2015.
-https://decred.org/research/eyal2015.pdf
+https://decred.org/research/eyal2015.pdf<br>
 
 [27] Nayak K., Kumar S., Miller A., Shi E. 2015. Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack. Cryptology 2015/796.
-https://decred.org/research/nayak2015.pdf
+https://decred.org/research/nayak2015.pdf<br>
 
 [28] Wuille P. 2015. Tree Signatures: Multisig on steroids using tree signatures.
-https://decred.org/research/wuille2015.pdf
+https://decred.org/research/wuille2015.pdf<br>
 </div>
 
 ## الملحق أ: شنور متعدد التوقيعات
