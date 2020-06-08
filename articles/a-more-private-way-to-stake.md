@@ -2,9 +2,9 @@
 
 # طريقة أكثر خصوصية للتحصيص
 
-**بقلم JAMIE HOLDSTOCK مطور ديكريد، في 2 يونيو 2020**
+**بقلم JAMIE HOLDSTOCK، مطور ديكريد، في 2 يونيو 2020**
 
-![private way to stake](../img/private-way-to-stake.png)
+![](../img/private-way-to-stake.png)
 
 يعتبر مجتمع ديكريد أن الخصوصية حق أساسي من حقوق الإنسان.
 
