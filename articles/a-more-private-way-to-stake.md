@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # طريقة أكثر خصوصية للتحصيص
 
 **بقلم JAMIE HOLDSTOCK مطور ديكريد، في 2 يونيو 2020**
@@ -72,3 +74,5 @@ vspd هو تنفيذ من الصفر لمقدم خدمة التصويت (VSP) ل
 النص الأصلي: [A More Private Way to Stake](https://blog.decred.org/2020/06/02/A-More-Private-Way-to-Stake/)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
+
+</div>
