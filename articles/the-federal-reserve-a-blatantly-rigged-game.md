@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # البنك الاحتياطي الفيدرالي: لعبة مُزَيّفة بشكلٍ صارخ
 
 ![](../img/fiat-is-rigged.png)
@@ -133,5 +131,3 @@ _بقلم جيك يوكوم بيات في 1 يوليوز 2020_
 النسخة الأصلية للمقالة: [The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
-
-</div>
