@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # موجز عن مشروع الديكريد
 
 ## ما هي الديكريد؟
@@ -79,5 +77,3 @@
 المرجع: [Decred Business Brief](https://decred.org/brief/#)
 
 الترجمة إلى العربية: arij@، قام بمراجعته abdulrahman4@.
-
-</div>
