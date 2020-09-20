@@ -55,6 +55,6 @@
 أصبحت الديكريد عملة رقمية تقدمية بطبيعتها. نظامها الفريد للحوكة يسمح لها بالتطور بسرعة وفقًا لرغبات أصحاب الحصص. اكتملت [خريطة الطريق لعام 2017](https://blog.decred.org/2017/01/09/2017-Decred-Roadmap/) بنسبة بلغت أكثر من 50٪، وإقترب إدماج الشبكة البرقية. مع [إقتراب إنتهاء](https://voting.decred.org/) أول تصويت على السلسلة في التاريخ ، هناك شيء واحد واضح  ما سيحدث لمشروع الديكريد الآن، متروك لنا.
 
 
-ظهر نص المنشور الأصلي على: https://thedecreddigest.wordpress.com/2017/06/10/decred-where-did-it-all-begin/ في 10 يونيو 2017.
+ظهر نص المنشور الأصلي على: [Decred where did it all begin](https://thedecreddigest.wordpress.com/2017/06/10/decred-where-did-it-all-begin/) في 10 يونيو 2017.
 
-ترجمة butterfly@
+تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة abdulrahman4@.
