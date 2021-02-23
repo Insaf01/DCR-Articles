@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # بناء مستقبل مُتَجَلٍّ بسلسلة كتل الديكريد
 
 بقلم Ammarooni
@@ -93,5 +91,3 @@
 رابط النص الأصلي: [Building a transparent future with the Decred blockchain](https://medium.com/decred/building-a-transparent-future-with-the-decred-blockchain-e77471d28059)
 
 تمت الترجمة إلى اللغة العربية بواسطة: arij@. قام بالمراجعة و التدقيق abdulrahman4@.
-
-</div>
