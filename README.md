@@ -1,5 +1,6 @@
 مقالات الديكريد بالعربية
 
+### [بناء مستقبل مُتَجَلٍّ بسلسلة كتل الديكريد](articles/building-a-transparent-future-with-decred-blockchain.md)
 ### [موجز عن مشروع الديكريد](articles/decred-business-brief.md)
 ### [الديكريد: من أين بدأت؟](articles/decred-where-did-it-all-begin.md)
 ### [لماذا اسم الديكريد رائع](articles/why-the-name-decred-is-awesome.md)
